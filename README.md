@@ -1,11 +1,12 @@
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 Hello, World! 🌍
 
-Hello! 👋 I'm originally from South Korea 🇰🇷 and currently a student at 42 Heilbronn 🎓. I'm also pursuing a B.S. in Computer Science from Korean National Open University 📚.
+I'm Eunsu from South Korea 🇰🇷, currently navigating the coding universe at 42 Heilbronn 🚀 while pursuing my B.S. in Computer Science at Korean National Open University 📚.
 
-After working for over 4 years as an IT Project Consultant in Paris 🇫🇷, I am now deepening my technical skills to further advance in my career.
+💼 My Journey
+With 4+ years of experience as an IT Project Consultant in the vibrant city of Paris 🇫🇷, I'm on a mission to deepen my technical expertise and level up my career. I believe that combining my project management skills with coding prowess will lead to exciting opportunities!
 
-My GitHub repositories mainly showcase projects I've worked on as part of the 42 Core Curriculum, with a focus on C/C++ programming, systems programming, and algorithm development 💻.
+🛠️ What I Do
+Here on GitHub, you'll find a showcase of my projects from the 42 Core Curriculum, focusing on C/C++ programming 💻
 
-I am passionate about software development and IT project management 💡, aiming to combine my previous project management experience with my growing technical expertise.
-
-Feel free to explore my projects 🌟 and reach out if you'd like to collaborate! 🤝
+🌟 Let's Connect!
+I’m passionate about IT project management, and I'm always eager to collaborate 🤝. Feel free to explore my projects and reach out—let's create something amazing together! ✨
