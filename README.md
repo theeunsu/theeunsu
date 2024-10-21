@@ -9,4 +9,4 @@ With 4+ years of experience as an IT Project Consultant in the vibrant city of P
 Here on GitHub, you'll find a showcase of my projects from the 42 Core Curriculum, focusing on C/C++ programming 💻
 
 ### 🌟 Let's Connect!
-I’m passionate about IT project management, and I'm always eager to collaborate 🤝. Feel free to explore my projects and reach out—let's create something amazing together! ✨
+I welcome discussions and connections related to my projects. If you’re interested in collaborating or have any questions, feel free to reach out.—let's create something amazing together! ✨
