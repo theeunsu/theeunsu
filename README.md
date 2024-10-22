@@ -11,6 +11,6 @@ Here on GitHub, you'll find a showcase of my projects from the 42 Core Curriculu
 ### 🌟 Let's Connect!
 I welcome discussions and connections related to my projects. If you’re interested in collaborating or have any questions, feel free to reach out ✨
 
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[linkedin]: https://linkedin.com/in/eunsuahn
-<a href="https://github.com/theeunsu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeunsu&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://linkedin.com/in/eunsuahn" target="_blank">
+    <img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
