@@ -8,13 +8,6 @@ With 4+ years of experience as an IT Project Consultant in the vibrant city of P
 ### 🛠️ What I Do
 Here on GitHub, you'll find a showcase of my projects from the 42 Core Curriculum, focusing on C/C++ programming.
 
-### 🌟 Let's Connect!
-I welcome discussions and connections related to my projects. If you’re interested in collaborating or have any questions, feel free to reach out ✨
-
-<a href="https://linkedin.com/in/eunsuahn" target="_blank">
-    <img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-
 <br>
 <br>
 
@@ -33,3 +26,7 @@ I welcome discussions and connections related to my projects. If you’re intere
 ![Mac](https://img.shields.io/badge/-Mac-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### 🌟 Let's Connect!
+Feel free to reach out if you're interested in collaborating or have any questions. You can connect with me on [LinkedIn](https://linkedin.com/in/eunsuahn) ✨
+
