@@ -15,13 +15,14 @@ I welcome discussions and connections related to my projects. If you’re intere
     <img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
+<br> 
 ## 📝 Languages & Tools
 
 ### Languages
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) **Proficient**
-- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) **Advanced**
-- ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white) **Intermediate**
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) **Intermediate**
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+- ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white) 
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![XML](https://img.shields.io/badge/-XML-FF7C00?style=flat&logo=xml&logoColor=white)
