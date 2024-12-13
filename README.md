@@ -5,12 +5,6 @@ I'm Eunsu from South Korea, currently navigating the coding universe at 42 Heilb
 ### 💼 My Journey
 With 4+ years of experience as an IT Project Consultant in the vibrant city of Paris, I'm on a mission to deepen my technical expertise and level up my career.
 
-### 🛠️ What I Do
-Here on GitHub, you'll find a showcase of my projects from the 42 Core Curriculum, focusing on C/C++ programming.
-
-<br>
-<br>
-
 ### 📝 Languages & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
