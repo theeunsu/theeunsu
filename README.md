@@ -16,7 +16,6 @@ I welcome discussions and connections related to my projects. If you’re intere
 </a>
 
 <br> 
-## 📝 Languages & Tools
 
 ### Languages
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
